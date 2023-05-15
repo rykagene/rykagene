@@ -7,7 +7,7 @@ I am passionate about tech and I love joining communities and program.
 
 ### <👩‍💻> Programming Languages I use </👩‍💻>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,java,cpp,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,cs,cpp,java,arduino)](https://skillicons.dev)
 
 *ps. I am a stray cat in this field, so I am pretty much a beginner.* 
 
